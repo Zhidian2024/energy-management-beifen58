@@ -7,25 +7,44 @@
 
 # 二、软件架构
 
-![01软件架构](https://github.com/user-attachments/assets/8841976f-1f27-4f78-a87f-36b4d39993a4)
+![extending-a-theme](/01软件架构.jpg)
 
 
 # 三、功能介绍
 
-![02软件功能](https://github.com/user-attachments/assets/4fd66cfa-6304-452f-8a2d-fadc295cd308)
+![extending-a-theme](/02软件功能.jpg)
 
 
 # 四、数字大屏展示
 
-![2M以内文件](https://github.com/user-attachments/assets/75c9a32e-06fc-4f1a-b347-806293a8e3bc)
+![extending-a-theme](/03大屏.png)
 
 
 # 五、数据采集原理
 
-![001](https://github.com/user-attachments/assets/7d974e5e-1948-4c65-bd37-ee6d633738fd)
+![extending-a-theme](/0002.png)
 
-![0002](https://github.com/user-attachments/assets/2071096a-a672-403e-989a-99183efef630)
+![extending-a-theme](001.png)
 
 
 
 # 六、软件截图
+
+![extending-a-theme](/01.png)
+![extending-a-theme](/02.png)
+![extending-a-theme](/03.png)
+![extending-a-theme](/04.png)
+![extending-a-theme](/05.png)
+![extending-a-theme](/06.png)
+![extending-a-theme](/07.png)
+![extending-a-theme](/08.png)
+![extending-a-theme](/09.png)
+![extending-a-theme](/10.png)
+![extending-a-theme](/11.png)
+![extending-a-theme](/12.png)
+![extending-a-theme](/13.png)
+![extending-a-theme](/14.png)
+![extending-a-theme](/15.png)
+![extending-a-theme](/16.png)
+![extending-a-theme](/17.png)
+![extending-a-theme](/lianxi.jpg)
