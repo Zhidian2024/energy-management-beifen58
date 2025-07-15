@@ -1,54 +1,78 @@
-# 简述
+# zhitan02
 
 基于SpringCloud的能源管理系统-能源管理平台源码-能源在线监测平台-双碳平台源码-SpringCloud全家桶-能管管理系统源码
 
-# 一、介绍
+一、介绍
 
 基于SpringCloud的能管管理系统-能源管理平台源码-能源在线监测平台-双碳平台源码-SpringCloud全家桶-能管管理系统源码
 
-# 二、软件架构
+二、软件架构
 
-![extending-a-theme](/01软件架构.jpg)
-
-
-# 三、功能介绍
-
-![extending-a-theme](/02软件功能.jpg)
+![01软件架构](https://github.com/user-attachments/assets/8841976f-1f27-4f78-a87f-36b4d39993a4)
 
 
-# 四、数字大屏展示
+二、功能介绍
 
-![extending-a-theme](/03大屏.png)
+![02软件功能](https://github.com/user-attachments/assets/4fd66cfa-6304-452f-8a2d-fadc295cd308)
 
 
-# 五、数据采集原理
+三、数字大屏展示
 
-![extending-a-theme](/0002.png)
-
-![extending-a-theme](001.png)
+![028](https://github.com/user-attachments/assets/dd66c89a-32ee-45a6-ad8d-c368a62ae6e4)
 
 
 
-# 六、软件截图
+四、数据采集原理
 
-![extending-a-theme](/01.png)
-![extending-a-theme](/02.png)
-![extending-a-theme](/03.png)
-![extending-a-theme](/04.png)
-![extending-a-theme](/05.png)
-![extending-a-theme](/06.png)
-![extending-a-theme](/07.png)
-![extending-a-theme](/08.png)
-![extending-a-theme](/09.png)
-![extending-a-theme](/10.png)
-![extending-a-theme](/11.png)
-![extending-a-theme](/12.png)
-![extending-a-theme](/13.png)
-![extending-a-theme](/14.png)
-![extending-a-theme](/15.png)
-![extending-a-theme](/16.png)
-![extending-a-theme](/17.png)
+![001](https://github.com/user-attachments/assets/7d974e5e-1948-4c65-bd37-ee6d633738fd)
+
+
+
+五、软件截图
+
+
+![001](https://github.com/user-attachments/assets/417d5b8b-517b-44bb-ac50-d136561024d3)
+![002](https://github.com/user-attachments/assets/09290e0b-bd7a-406a-ad19-5413733d0368)
+![003](https://github.com/user-attachments/assets/2a98f519-21f6-4f1b-b937-f420f4466ce0)
+![004](https://github.com/user-attachments/assets/ef858dea-2e4c-493c-8851-44c79888f903)
+![005](https://github.com/user-attachments/assets/0416c773-1f6b-48e2-9521-1c8cdd02782b)
+![006](https://github.com/user-attachments/assets/48ca2d7b-de5f-4a9b-887e-20a696160882)
+![007](https://github.com/user-attachments/assets/9375140f-0d3c-41c0-8821-321310fa45a7)
+![010](https://github.com/user-attachments/assets/4000c7c4-49d2-485c-a3b7-ee2cb4b48543)
+![015](https://github.com/user-attachments/assets/be0d3d7d-a661-4d96-9adc-bea99e18414d)
+![020](https://github.com/user-attachments/assets/069b3802-3448-4b65-b44b-e135577a9946)
+![027](https://github.com/user-attachments/assets/fccd54ed-a265-43b5-9fec-9bbe767de065)
+
+
+
+
+
+
+
+
+
+
+
 
 #### 有兴趣，加V，备注：来源和项目名称
 
-![extending-a-theme](/lianxi.png)
+![lianxi](https://github.com/user-attachments/assets/115195e5-80c2-4257-8135-c35e9da2b1c4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
